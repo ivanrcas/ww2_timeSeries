@@ -5,7 +5,8 @@ Predicciones de características a través de Series de tiempo para inmersión r
 ## Estructura del proyecto
 * [Presentación](https://docs.google.com/presentation/d/1Jek3ZC5iuSYVQHXnlP4yfbvKM9JjYZ4A2Df90MdzWFo/view#slide=id.p)
 * [Vídeo](https://)
-* [Notebook](https://)
+* [Notebook en Colab (preferible para mejor visualización del gráficas)](https://colab.research.google.com/drive/10rGTw8C8FvheUwVxND1Vo5mkhQwfSanG)
+* [Notebook en Github](https://github.com/ivanrcas/ww2_timeSeries/blob/master/notebook_proyectoVideojuego.ipynb)
 * [Datasets](https://drive.google.com/drive/folders/1csFPpRdUN41foRGsrURePwd1oYAy-6Vq?usp=sharing)
 
 ## Descripción del Problema
