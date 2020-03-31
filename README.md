@@ -13,3 +13,10 @@ Se cuenta con un par de Datasets con datos del clima y los bombardeos entre sept
 * pandas
 * stats models
 * pyramid-arima
+
+## Créditos
+Ivan Rodrigo Castillo Cañas - 2130501
+Damar Nicolás Rojas Chacón - 2122079
+Juan Sebastian Rondon Arango - 2130501
+Javier Camilo Rueda Serrano - 2141380
+Grupo D1 - Simulación Digital - UIS
