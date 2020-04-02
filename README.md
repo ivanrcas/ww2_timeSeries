@@ -25,7 +25,7 @@ Se cuenta con un par de Datasets con datos del clima y los bombardeos entre sept
 * pyramid-arima
 
 ## Créditos
-Ivan Rodrigo Castillo Cañas - 2130501 <br>
+Ivan Rodrigo Castillo Cañas - 2160023 <br>
 Damar Nicolás Rojas Chacón - 2122079 <br>
 Juan Sebastian Rondon Arango - 2130501 <br>
 Javier Camilo Rueda Serrano - 2141380 <br>
